@@ -24,19 +24,19 @@ convert.addEventListener("click", function(){
 })
 
 function convertMeterFeet(unitToConvert){
-	let meterToFeet = (unitToConvert * 3.281).toFixed(3)
-	let feetToMeter = (unitToConvert / 3.281).toFixed(3)
+	const meterToFeet = (unitToConvert * 3.281).toFixed(3)
+	const feetToMeter = (unitToConvert / 3.281).toFixed(3)
 	return meterFeet.textContent = `${unitToConvert} meters = ${meterToFeet} feet | ${unitToConvert} feet = ${feetToMeter} meters`
 }
 
 function convertLiterGallon(unitToConvert){
-	let literToGallon = (unitToConvert * 0.264).toFixed(3)
-	let gallonToLiter = (unitToConvert / 0.264).toFixed(3)
+	const literToGallon = (unitToConvert * 0.264).toFixed(3)
+	const gallonToLiter = (unitToConvert / 0.264).toFixed(3)
 	return literGallon.textContent = `${unitToConvert} meters = ${literToGallon} feet | ${unitToConvert} feet = ${gallonToLiter} meters`
 }
 
 function convertKilogramsPounds(unitToConvert){
-	let kilogramsToPounds = (unitToConvert * 2.204).toFixed(3)
-	let poundsToKilograms = (unitToConvert / 2.204).toFixed(3)
+	const kilogramsToPounds = (unitToConvert * 2.204).toFixed(3)
+	const poundsToKilograms = (unitToConvert / 2.204).toFixed(3)
 	return kilogramsPounds.textContent = `${unitToConvert} meters = ${kilogramsToPounds} feet | ${unitToConvert} feet = ${poundsToKilograms} meters`
 }
