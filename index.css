@@ -40,6 +40,7 @@ button{
 	padding: 20px 30px 30px 30px;
 	background: #E76F51;
 	color: #FFFFFF;
+	display: block;
 }
 
 #container-header button{
@@ -82,6 +83,10 @@ button{
 .container-unit{
 	background: #FFFFFF;
 	margin: 10px 0;
+}
+
+.container-unit p{
+	padding-bottom: 15px;
 }
 
 #error{
