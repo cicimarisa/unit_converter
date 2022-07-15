@@ -2,7 +2,10 @@
 
 ## Scrimba Challange 3rd Module, Javascript Part 3 - Cici Marisa Hardianti
 
-This code is built from the scratch 🚀
+# About Me, Cici
 
-- [Challenge's link](https://scrimba.com/learn/frontend/solo-project-unit-converter-cz9aPNSr)
-- [Designs's link](https://scrimba.com/learn/frontend/solo-project-unit-converter-cz9aPNSr)
+Hi all, I am creating this page for my learning purpose in order to persue my dream to become a clean developer.
+I write this code by my own from the scratch🚀
+
+
+Thanks for visiting!
